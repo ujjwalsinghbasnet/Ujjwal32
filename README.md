@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Sigh Basnet</h1>
+<h1 align="center">Hi 👋, I'm Ujjwal Singh Basnet</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/basnyat_ujjwal" target="blank"><img src="https://img.shields.io/twitter/follow/@basnyat_ujjwal?logo=twitter&style=for-the-badge" alt="@basnyat_ujjwal" /></a> </p>
